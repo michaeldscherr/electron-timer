@@ -1,0 +1,15 @@
+{
+  "name": "electron-timer",
+  "version": "0.1.0",
+  "description": "electron status bar timer",
+  "main": "main.js",
+  "repository": "github_personal:michaeldscherr/electron-timer.git",
+  "author": "Michael Scherr <mikescherr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
